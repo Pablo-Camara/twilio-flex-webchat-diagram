@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T16:37:36.898Z" agent="5.0 (X11)" etag="JMJqNpiFGOYzlbBoaPfv" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T16:39:54.892Z" agent="5.0 (X11)" etag="dwhDHcjAzZG66kGXsb73" version="14.0.0" type="github">
   <diagram id="VY8Ugw659c8AKN-5cp3E" name="Page-1">
     <mxGraphModel dx="2642" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,7 +44,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-700" y="-110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1250" y="111" />
+              <mxPoint x="-1320" y="70" />
+              <mxPoint x="-1250" y="70" />
               <mxPoint x="-1250" y="30" />
               <mxPoint x="-715" y="30" />
             </Array>
@@ -56,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MV1JnrodLzGo5CoqDg5H-3" value="&lt;div&gt;Twilio Flex&lt;/div&gt;&lt;div&gt;Agent Desktop&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1320" y="130" width="120" height="65" as="geometry" />
+          <mxGeometry x="-1320" y="80" width="120" height="115" as="geometry" />
         </mxCell>
         <mxCell id="MV1JnrodLzGo5CoqDg5H-5" value="twilio webchat script &amp;lt;/header&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="40" width="190" height="40" as="geometry" />
