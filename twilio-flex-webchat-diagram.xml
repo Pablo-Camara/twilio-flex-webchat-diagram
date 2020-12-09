@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T16:36:44.053Z" agent="5.0 (X11)" etag="PpvriYSO8sFg14TRm_-I" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T16:37:36.898Z" agent="5.0 (X11)" etag="JMJqNpiFGOYzlbBoaPfv" version="14.0.0" type="github">
   <diagram id="VY8Ugw659c8AKN-5cp3E" name="Page-1">
     <mxGraphModel dx="2642" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -86,9 +86,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MV1JnrodLzGo5CoqDg5H-33" value="User asks for help, and talks to the bot&lt;br&gt;&lt;div&gt;and starts giving context of the issue to the bot&lt;/div&gt;&lt;div&gt;until an agent picks up this task and bot transfers the conversation&lt;/div&gt;&lt;div&gt;to a real person with a real heart and soul&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="MV1JnrodLzGo5CoqDg5H-32" vertex="1" connectable="0">
+        <mxCell id="MV1JnrodLzGo5CoqDg5H-33" value="User asks for help, and talks to the bot&lt;br&gt;&lt;div&gt;and starts giving context of the issue to the bot&lt;/div&gt;&lt;div&gt;until an agent picks up this task and bot transfers the conversation&lt;/div&gt;&lt;div&gt;to a real person with a real heart and soul that will solve all his problems&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="MV1JnrodLzGo5CoqDg5H-32" vertex="1" connectable="0">
           <mxGeometry x="0.3677" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MV1JnrodLzGo5CoqDg5H-21" value="No longer desperate user &lt;br&gt;&lt;div&gt;because he found a chat&lt;/div&gt;&lt;div&gt;that he can ask for support&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
