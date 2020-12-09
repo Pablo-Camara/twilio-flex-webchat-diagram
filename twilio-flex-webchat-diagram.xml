@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T16:16:53.093Z" agent="5.0 (X11)" etag="uSzp49ESFXib9jdor-Tb" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T16:20:15.753Z" agent="5.0 (X11)" etag="yQGXhY_TZeQ3ndPDZkLp" version="14.0.0" type="github">
   <diagram id="VY8Ugw659c8AKN-5cp3E" name="Page-1">
-    <mxGraphModel dx="2642" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2642" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,6 +35,16 @@
         <mxCell id="MV1JnrodLzGo5CoqDg5H-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MV1JnrodLzGo5CoqDg5H-3" target="MV1JnrodLzGo5CoqDg5H-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1215" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MV1JnrodLzGo5CoqDg5H-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MV1JnrodLzGo5CoqDg5H-3" target="MV1JnrodLzGo5CoqDg5H-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-700" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MV1JnrodLzGo5CoqDg5H-47" value="Available Agent that&amp;nbsp; Accepted the Task / Conversation&lt;br&gt;sends feedback the the no longer desperate User" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MV1JnrodLzGo5CoqDg5H-46">
+          <mxGeometry x="-0.1658" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MV1JnrodLzGo5CoqDg5H-3" value="&lt;div&gt;Twilio Flex&lt;/div&gt;&lt;div&gt;Agent Desktop&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -81,11 +91,17 @@
             <mxPoint x="-1450" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MV1JnrodLzGo5CoqDg5H-37" value="Available Agent for a Queue" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="MV1JnrodLzGo5CoqDg5H-37" value="Available Agent for specific Queue" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-1300" y="310" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MV1JnrodLzGo5CoqDg5H-43" value="Available Agent in Queue has Accepted the Task / Conversation" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="-1580" y="50" width="200" height="130" as="geometry" />
+          <mxGeometry x="-1690" y="-20" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MV1JnrodLzGo5CoqDg5H-45" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="MV1JnrodLzGo5CoqDg5H-43" target="MV1JnrodLzGo5CoqDg5H-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1410" y="-30" as="sourcePoint" />
+            <mxPoint x="-1360" y="-80" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
